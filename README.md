@@ -1,6 +1,6 @@
-## Code reviwer plugin
+## Code reviewer plugin
 
-Adds and agent and a command for code review the way our team does it here at Acme Potassium Inc
+Adds an agent and a command for code review the way our team does it here at Acme Potassium Inc
 
 ### What's in here
  
